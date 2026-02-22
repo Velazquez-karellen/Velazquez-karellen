@@ -1,51 +1,108 @@
-# 👋 Hello there, I'm Karellen Velazquez!
+# Karellen Velázquez Rivera
 
-🌟 **Aspiring Software Developer** | 🎮 **Game Development Enthusiast** | 🤖 **AI & ML Learner**
-
-I'm university student with a passion for technology and creativity. I’m currently learning and growing as a developer, working on projects that help me sharpen my skills and explore new possibilities in the world of software. My dream is to become a **software developer, game developer, full-stack developer, and AI/ML innovator**, contributing to society through meaningful and impactful technology.
-
----
-
-## 🚀 **What I'm Working On**
-- 🎮 **Zelda C++ Project**: A fun and challenging project I’m enhancing as part of my learning journey.
-- 🤖 **Discord Bot with AI**: My next challenge is building an intelligent bot in Java to explore AI integration.
-- 📝 **Podcast Journey**: Taking my first steps into creating a podcast to share ideas and connect with others.
+### Software Engineering Student @ UPRM  
+Full-Stack SaaS Engineer | Systems & Architecture
 
 ---
 
-## ✅ **Completed Projects**
-- 🐍 **Snake Game**: A completed medium-level project that taught me a lot about programming logic and creativity.
+## Engineering Philosophy
+
+I see software as the tension between order and expansion.  
+
+Systems do not fail because they grow —  
+they fail because they were never designed to grow.  
+
+Structure is not decoration.  
+It is foresight.  
+Abstraction is not elegance.  
+It is discipline.  
+
+Every boundary defines responsibility.  
+Every interface defines trust.  
+Every architectural decision shapes what the system will tolerate tomorrow.  
+
+Clarity is strength.  
+Coherence is stability.  
+Intentional design is endurance.  
+
+I build with the future in mind —  
+not as prediction,  
+but as obligation.  
+
+Engineering, to me, is the deliberate act of making complexity coherent  
+without surrendering to it.
 
 ---
 
-## 🛠️ **Tech Stack**
-- **Languages:** Python, C++, Java (currently learning and improving)
-- **Tools & Frameworks:** Git, Visual Studio
-- **Interests:** Game Development, Full-Stack Development, AI/ML Integration
+## Engineering Focus
+
+• Full-Stack SaaS Systems  
+• Backend Architecture & API Design  
+• Secure Authentication Flows  
+• Database Modeling & Schema Design  
+• Modular Frontend Systems (PWA)  
+• Clean Architecture & Domain Separation  
+• Research-driven System Thinking  
 
 ---
 
-## 🎨 **Hobbies & Interests**
-- 🎮 **Gaming**: I find inspiration in games like *Zelda*, *Genshin Impact*, *Fortnite*, *It Takes Two*, *Mario Kart*, *Fall Guys*, *Overcooked*, and *Smash Bros*. Gaming fuels my creativity and helps me come up with project ideas.
-- ✏️ **Drawing**: I enjoy expressing creativity through art as well as code.
-- 🎙️ **Podcasting**: Exploring podcasting as a way to share my thoughts and connect with others.
+## Technical Stack
+
+### Backend & Data
+Laravel  
+REST APIs  
+PostgreSQL  
+Supabase  
+Authentication & Authorization  
+Database Design  
+
+### Frontend
+Flutter (PWA)  
+Blade  
+TailwindCSS  
+Component-Based UI Architecture  
+
+### Engineering Practices
+Clean Architecture  
+Domain-Driven Thinking  
+Scalable Folder Structures  
+Git & Version Control  
+CI/CD Fundamentals  
+System Modeling  
 
 ---
 
-## 🌱 **Goals for 2025**
-- 💻 **Expand My Skills**: Continue learning Java, full-stack development, and AI/ML.
-- 🎮 **Build More Projects**: Create games and tools that bring my ideas to life while improving my skills.
-- 🌟 **Contribute to Society**: Work on projects that positively impact people’s lives.
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Velazquez-karellen&theme=github_dark" height="180"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Velazquez-karellen&theme=github_dark" height="180"/>
+
+</div>
 
 ---
 
-## 📫 **Let's Connect!**
-- 📧 **Email:** [karellen.velazquez@upr.edu](mailto:karellen.velazquez@upr.edu)
-- 💼 **LinkedIn:** [linkedin.com/in/karellen-velazquez](https://www.linkedin.com/in/karellen-velazquez)
-- 📸 **Instagram:** [karellen6](https://instagram.com/karellen6)
+## LeetCode
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/velazquez-karellen?theme=dark&font=Inter&ext=activity" />
+
+</div>
 
 ---
+## Contact
 
-> _"It’s not about who has the most technology; it’s about who has the most heart."_ – *Ready Player One*, Ernest Cline
+<div align="center">
 
-Thanks for visiting my profile! I’m always open to learning, collaborating, and sharing ideas. Feel free to explore my repositories or reach out. 😊
+<a href="mailto:karellen.velazquez@upr.edu">
+  <img src="https://img.shields.io/badge/Email-karellen.velazquez%40upr.edu-111827?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/karellen-velazquez">
+  <img src="https://img.shields.io/badge/LinkedIn-Karellen%20Vel%C3%A1zquez-111827?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
