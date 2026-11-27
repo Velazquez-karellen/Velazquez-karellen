@@ -30,8 +30,11 @@ Software Engineering student at UPRM exploring software architecture, applied ma
 - **Autonomous Mobile Manipulation** — Research in mobile robotics.
 - **AON Robotics** — Software and web development.
 - **NENXORAS** — Software innovation.
+- **[Personal Portfolio](https://github.com/Velazquez-karellen/karellen-portfolio)** — Personal web development project.
 
 ## 05 // GitHub Activity
+
+![ORBIT activity telemetry](assets/components/github-activity.svg)
 
 <div align="center">
 
