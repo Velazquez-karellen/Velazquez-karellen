@@ -18,6 +18,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+          fetch-depth: 0
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
@@ -32,8 +35,20 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/components/github-activity.svg
-          if ! git diff --cached --quiet; then
+          cp assets/components/github-activity.svg "$RUNNER_TEMP/orbit-activity.svg"
+          git restore assets/components/github-activity.svg
+          for attempt in 1 2 3; do
+            git fetch origin "$GITHUB_REF_NAME"
+            git reset --hard "origin/$GITHUB_REF_NAME"
+            cp "$RUNNER_TEMP/orbit-activity.svg" assets/components/github-activity.svg
+            git add assets/components/github-activity.svg
+            if git diff --cached --quiet; then
+              exit 0
+            fi
             git commit -m "chore(profile): refresh ORBIT activity"
-            git push
-          fi
+            if git push origin "HEAD:refs/heads/$GITHUB_REF_NAME"; then
+              exit 0
+            fi
+            sleep 2
+          done
+          exit 1
