@@ -14,7 +14,7 @@ My work focuses on software engineering, applied mathematics and autonomous robo
 
 - **Autonomous Robotics Research** — Mobile manipulation, autonomous navigation and control.
 - **AI Automation Research** — Intelligent agents, workflow automation and system integration.
-- **NENXORAS** — Founder.
+- **[NENXORAS](https://github.com/NENXORAS)** — Founder; designing a modular intelligent software ecosystem.
 
 ## 02 // Current Focus
 
@@ -35,20 +35,31 @@ My work focuses on software engineering, applied mathematics and autonomous robo
 
 - **Autonomous Mobile Manipulation** — Research in mobile robotics.
 - **AI Automation Research** — Intelligent workflow automation.
-- **NENXORAS** — Founder.
+### [NENXORAS](https://github.com/NENXORAS) — Founder
+
+*Intelligence Connects More.*
+
+Neural Ecosystem for Navigation, eXecution, Organization, Reasoning, Automation, and Synchronization.
+
+A personal intelligent ecosystem designed to unify organization, financial awareness, automation, synchronization and AI-assisted decision support.
+
+| Component | Focus |
+| --- | --- |
+| V.E.R.A. | Financial management and budgeting |
+| A.T.L.A.S. | Tasks, scheduling and productivity |
+| O.R.I.O.N. | Intelligent assistance and orchestration |
+
+**Current stage:** Foundation documentation complete; implementation design and planning in progress. Core infrastructure and application MVPs are planned.
+
+**Technical direction:** Flutter, Dart, Python, FastAPI and PostgreSQL, with offline capability, modular architecture and explicit authorization for AI-prepared changes.
+
+[Explore the organization](https://github.com/NENXORAS)
 
 ## 05 // GitHub Activity
 
 ![ORBIT activity telemetry](assets/components/github-activity.svg)
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Velazquez-karellen&amp;theme=github_dark" alt="GitHub statistics" width="48%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Velazquez-karellen&amp;theme=github_dark" alt="Repository languages" width="48%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Velazquez-karellen&amp;theme=github_dark" alt="Contribution activity" width="98%"/>
-
-</div>
+*Telemetry reflects data accessible to the GitHub Actions token.*
 
 ## 06 // Coding Activity
 
