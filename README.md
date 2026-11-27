@@ -1,11 +1,44 @@
-# Karellen Velázquez Rivera
+<div align="center">
 
-### Software Engineering Student @ UPRM  
-Full-Stack SaaS Engineer | Systems & Architecture
+![Karellen A. Velázquez — ORBIT_01](assets/hero/orbit-banner.svg)
 
----
+[GitHub](https://github.com/Velazquez-karellen) · [LinkedIn](https://www.linkedin.com/in/karellen-velazquez) · [Contact](mailto:karellen.velazquez@upr.edu)
 
-## Engineering Philosophy
+</div>
+
+## 01 // About Me
+
+Software Engineering student at UPRM exploring software architecture, applied mathematics and autonomous robotic systems.
+
+## 02 // Current Focus
+
+![Robotics, Software Engineering, Applied Mathematics, AI and Automation](assets/components/current-focus.svg)
+
+## 03 // Engineering Toolkit
+
+**Languages:** Python · C++  
+**Applications:** Flutter · Laravel · Blade · Tailwind CSS  
+**Data & APIs:** PostgreSQL · Supabase · REST APIs  
+**Engineering:** Git · System modeling · Clean architecture
+
+## 04 // Selected Projects
+
+- **Autonomous Mobile Manipulation** — Research in mobile robotics.
+- **AON Robotics** — Software and web development.
+- **NENXORAS** — Software innovation.
+
+## 05 // GitHub Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Velazquez-karellen&amp;theme=github_dark" alt="GitHub statistics" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Velazquez-karellen&amp;theme=github_dark" alt="Repository languages" width="48%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Velazquez-karellen&amp;theme=github_dark" alt="Contribution activity" width="98%"/>
+
+</div>
+
+## 06 // Engineering Philosophy
 
 I see software as the tension between order and expansion.  
 
@@ -32,77 +65,18 @@ but as obligation.
 Engineering, to me, is the deliberate act of making complexity coherent  
 without surrendering to it.
 
----
-
-## Engineering Focus
-
-• Full-Stack SaaS Systems  
-• Backend Architecture & API Design  
-• Secure Authentication Flows  
-• Database Modeling & Schema Design  
-• Modular Frontend Systems (PWA)  
-• Clean Architecture & Domain Separation  
-• Research-driven System Thinking  
-
----
-
-## Technical Stack
-
-### Backend & Data
-Laravel  
-REST APIs  
-PostgreSQL  
-Supabase  
-Authentication & Authorization  
-Database Design  
-
-### Frontend
-Flutter (PWA)  
-Blade  
-TailwindCSS  
-Component-Based UI Architecture  
-
-### Engineering Practices
-Clean Architecture  
-Domain-Driven Thinking  
-Scalable Folder Structures  
-Git & Version Control  
-CI/CD Fundamentals  
-System Modeling  
-
----
-
-## GitHub Stats
+## 07 // Coding Activity
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Velazquez-karellen&theme=github_dark" height="180"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Velazquez-karellen&theme=github_dark" height="180"/>
+<img src="https://leetcard.jacoblin.cool/velazquez-karellen?theme=dark&amp;font=Inter&amp;ext=activity" alt="LeetCode activity"/>
 
 </div>
 
 ---
 
-## LeetCode
-
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/velazquez-karellen?theme=dark&font=Inter&ext=activity" />
-
-</div>
-
----
-## Contact
-
-<div align="center">
-
-<a href="mailto:karellen.velazquez@upr.edu">
-  <img src="https://img.shields.io/badge/Email-karellen.velazquez%40upr.edu-111827?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/karellen-velazquez">
-  <img src="https://img.shields.io/badge/LinkedIn-Karellen%20Vel%C3%A1zquez-111827?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+**THE BEST SYSTEMS ARE ALWAYS EVOLVING.** · `ORBIT_01`
 
 </div>
