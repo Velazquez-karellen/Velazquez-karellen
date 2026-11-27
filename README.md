@@ -8,7 +8,14 @@
 
 ## 01 // About Me
 
-Software Engineering student at UPRM exploring software architecture, applied mathematics and autonomous robotic systems.
+Software Engineering student at the University of Puerto Rico at Mayagüez (UPRM), with studies in Applied Mathematics and a research interest in autonomous mobile manipulation, robotics and control. My work spans full-stack development, software architecture and AI-driven workflow automation.
+
+### Experience & Research
+
+- **AON Robotics** — Web Development Lead and Software Division member; developing web platforms and mobile applications.
+- **Undergraduate Research** — Autonomous mobile manipulation, navigation, mathematical modeling and optimization.
+- **Administrative AI Automation** — Research and development of workflow automation and agent integration.
+- **Women in Engineering (IEEE WIE)** — Leadership and STEM outreach.
 
 ## 02 // Current Focus
 
@@ -18,10 +25,10 @@ Software Engineering student at UPRM exploring software architecture, applied ma
 
 ![Engineering toolkit](assets/components/engineering-toolkit.svg)
 
-**Languages:** Python · C++  
+**Languages:** Python · C++ · Dart · PHP  
 **Applications:** Flutter · Laravel · Blade · Tailwind CSS  
-**Data & APIs:** PostgreSQL · Supabase · REST APIs  
-**Engineering:** Git · System modeling · Clean architecture
+**Data & APIs:** PostgreSQL · Supabase · REST APIs · FastAPI  
+**Engineering:** Git · System modeling · Clean architecture · SolidWorks
 
 ## 04 // Selected Projects
 
@@ -45,34 +52,7 @@ Software Engineering student at UPRM exploring software architecture, applied ma
 
 </div>
 
-## 06 // Engineering Philosophy
-
-I see software as the tension between order and expansion.  
-
-Systems do not fail because they grow —  
-they fail because they were never designed to grow.  
-
-Structure is not decoration.  
-It is foresight.  
-Abstraction is not elegance.  
-It is discipline.  
-
-Every boundary defines responsibility.  
-Every interface defines trust.  
-Every architectural decision shapes what the system will tolerate tomorrow.  
-
-Clarity is strength.  
-Coherence is stability.  
-Intentional design is endurance.  
-
-I build with the future in mind —  
-not as prediction,  
-but as obligation.  
-
-Engineering, to me, is the deliberate act of making complexity coherent  
-without surrendering to it.
-
-## 07 // Coding Activity
+## 06 // Coding Activity
 
 <div align="center">
 
