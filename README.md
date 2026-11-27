@@ -1,108 +1,78 @@
-# Karellen Velázquez Rivera
+<div align="center">
 
-### Software Engineering Student @ UPRM  
-Full-Stack SaaS Engineer | Systems & Architecture
+![Karellen A. Velázquez — ORBIT_01](assets/hero/orbit-banner.svg)
 
----
+[![GitHub](assets/components/nav-github.svg)](https://github.com/Velazquez-karellen) [![LinkedIn](assets/components/nav-linkedin.svg)](https://www.linkedin.com/in/karellen-velazquez) [![Projects](assets/components/nav-projects.svg)](#04--selected-projects)
 
-## Engineering Philosophy
+</div>
 
-I see software as the tension between order and expansion.  
+## 01 // About Me
 
-Systems do not fail because they grow —  
-they fail because they were never designed to grow.  
+My work focuses on software engineering, applied mathematics and autonomous robotics, combining software development, mathematical modeling and intelligent systems.
 
-Structure is not decoration.  
-It is foresight.  
-Abstraction is not elegance.  
-It is discipline.  
+### Experience & Research
 
-Every boundary defines responsibility.  
-Every interface defines trust.  
-Every architectural decision shapes what the system will tolerate tomorrow.  
+- **Autonomous Robotics Research** — Mobile manipulation, autonomous navigation and control.
+- **AI Automation Research** — Intelligent agents, workflow automation and system integration.
+- **[NENXORAS](https://github.com/NENXORAS)** — Founder; designing a modular intelligent software ecosystem.
 
-Clarity is strength.  
-Coherence is stability.  
-Intentional design is endurance.  
+## 02 // Current Focus
 
-I build with the future in mind —  
-not as prediction,  
-but as obligation.  
+![Robotics, Software Engineering, Applied Mathematics, AI and Automation](assets/components/current-focus.svg)
 
-Engineering, to me, is the deliberate act of making complexity coherent  
-without surrendering to it.
+## 03 // Engineering Toolkit
 
----
+![Engineering toolkit](assets/components/engineering-toolkit.svg)
 
-## Engineering Focus
+**Languages:** Python · C++ · Dart · PHP  
+**Applications:** Flutter · Laravel · Blade · Tailwind CSS  
+**Data & APIs:** PostgreSQL · Supabase · REST APIs · FastAPI  
+**Engineering:** Git · System modeling · Clean architecture · SolidWorks
 
-• Full-Stack SaaS Systems  
-• Backend Architecture & API Design  
-• Secure Authentication Flows  
-• Database Modeling & Schema Design  
-• Modular Frontend Systems (PWA)  
-• Clean Architecture & Domain Separation  
-• Research-driven System Thinking  
+## 04 // Selected Projects
 
----
+![Selected projects](assets/components/featured-projects.svg)
 
-## Technical Stack
+- **Autonomous Mobile Manipulation** — Research in mobile robotics.
+- **AI Automation Research** — Intelligent workflow automation.
+### [NENXORAS](https://github.com/NENXORAS) — Founder
 
-### Backend & Data
-Laravel  
-REST APIs  
-PostgreSQL  
-Supabase  
-Authentication & Authorization  
-Database Design  
+*Intelligence Connects More.*
 
-### Frontend
-Flutter (PWA)  
-Blade  
-TailwindCSS  
-Component-Based UI Architecture  
+Neural Ecosystem for Navigation, eXecution, Organization, Reasoning, Automation, and Synchronization.
 
-### Engineering Practices
-Clean Architecture  
-Domain-Driven Thinking  
-Scalable Folder Structures  
-Git & Version Control  
-CI/CD Fundamentals  
-System Modeling  
+A personal intelligent ecosystem designed to unify organization, financial awareness, automation, synchronization and AI-assisted decision support.
 
----
+| Component | Focus |
+| --- | --- |
+| V.E.R.A. | Financial management and budgeting |
+| A.T.L.A.S. | Tasks, scheduling and productivity |
+| O.R.I.O.N. | Intelligent assistance and orchestration |
 
-## GitHub Stats
+**Current stage:** Foundation documentation complete; implementation design and planning in progress. Core infrastructure and application MVPs are planned.
+
+**Technical direction:** Flutter, Dart, Python, FastAPI and PostgreSQL, with offline capability, modular architecture and explicit authorization for AI-prepared changes.
+
+[Explore the organization](https://github.com/NENXORAS)
+
+## 05 // GitHub Activity
+
+![ORBIT activity telemetry](assets/components/github-activity.svg)
+
+*Telemetry reflects data accessible to the GitHub Actions token.*
+
+## 06 // Coding Activity
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Velazquez-karellen&theme=github_dark" height="180"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Velazquez-karellen&theme=github_dark" height="180"/>
+<img src="https://leetcard.jacoblin.cool/velazquez-karellen?theme=dark&amp;font=Inter&amp;ext=activity" alt="LeetCode activity"/>
 
 </div>
 
 ---
 
-## LeetCode
-
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/velazquez-karellen?theme=dark&font=Inter&ext=activity" />
-
-</div>
-
----
-## Contact
-
-<div align="center">
-
-<a href="mailto:karellen.velazquez@upr.edu">
-  <img src="https://img.shields.io/badge/Email-karellen.velazquez%40upr.edu-111827?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/karellen-velazquez">
-  <img src="https://img.shields.io/badge/LinkedIn-Karellen%20Vel%C3%A1zquez-111827?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+**THE BEST SYSTEMS ARE ALWAYS EVOLVING.** · `ORBIT_01`
 
 </div>
