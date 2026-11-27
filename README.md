@@ -2,7 +2,7 @@
 
 ![Karellen A. Velázquez — ORBIT_01](assets/hero/orbit-banner.svg)
 
-[GitHub](https://github.com/Velazquez-karellen) · [LinkedIn](https://www.linkedin.com/in/karellen-velazquez) · [Contact](mailto:karellen.velazquez@upr.edu)
+[![GitHub](assets/components/nav-github.svg)](https://github.com/Velazquez-karellen) [![LinkedIn](assets/components/nav-linkedin.svg)](https://www.linkedin.com/in/karellen-velazquez) [![Contact](assets/components/nav-contact.svg)](mailto:karellen.velazquez@upr.edu) [![Projects](assets/components/nav-projects.svg)](#04--selected-projects)
 
 </div>
 
