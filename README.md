@@ -16,12 +16,16 @@ Software Engineering student at UPRM exploring software architecture, applied ma
 
 ## 03 // Engineering Toolkit
 
+![Engineering toolkit](assets/components/engineering-toolkit.svg)
+
 **Languages:** Python · C++  
 **Applications:** Flutter · Laravel · Blade · Tailwind CSS  
 **Data & APIs:** PostgreSQL · Supabase · REST APIs  
 **Engineering:** Git · System modeling · Clean architecture
 
 ## 04 // Selected Projects
+
+![Selected projects](assets/components/featured-projects.svg)
 
 - **Autonomous Mobile Manipulation** — Research in mobile robotics.
 - **AON Robotics** — Software and web development.
