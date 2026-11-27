@@ -2,20 +2,19 @@
 
 ![Karellen A. Velázquez — ORBIT_01](assets/hero/orbit-banner.svg)
 
-[![GitHub](assets/components/nav-github.svg)](https://github.com/Velazquez-karellen) [![LinkedIn](assets/components/nav-linkedin.svg)](https://www.linkedin.com/in/karellen-velazquez) [![Contact](assets/components/nav-contact.svg)](mailto:karellen.velazquez@upr.edu) [![Projects](assets/components/nav-projects.svg)](#04--selected-projects)
+[![GitHub](assets/components/nav-github.svg)](https://github.com/Velazquez-karellen) [![LinkedIn](assets/components/nav-linkedin.svg)](https://www.linkedin.com/in/karellen-velazquez) [![Projects](assets/components/nav-projects.svg)](#04--selected-projects)
 
 </div>
 
 ## 01 // About Me
 
-Software Engineering student at the University of Puerto Rico at Mayagüez (UPRM), with studies in Applied Mathematics and a research interest in autonomous mobile manipulation, robotics and control. My work spans full-stack development, software architecture and AI-driven workflow automation.
+My work focuses on software engineering, applied mathematics and autonomous robotics, combining software development, mathematical modeling and intelligent systems.
 
 ### Experience & Research
 
-- **AON Robotics** — Web Development Lead and Software Division member; developing web platforms and mobile applications.
-- **Undergraduate Research** — Autonomous mobile manipulation, navigation, mathematical modeling and optimization.
-- **Administrative AI Automation** — Research and development of workflow automation and agent integration.
-- **Women in Engineering (IEEE WIE)** — Leadership and STEM outreach.
+- **Autonomous Robotics Research** — Mobile manipulation, autonomous navigation and control.
+- **AI Automation Research** — Intelligent agents, workflow automation and system integration.
+- **NENXORAS** — Founder.
 
 ## 02 // Current Focus
 
@@ -35,9 +34,8 @@ Software Engineering student at the University of Puerto Rico at Mayagüez (UPRM
 ![Selected projects](assets/components/featured-projects.svg)
 
 - **Autonomous Mobile Manipulation** — Research in mobile robotics.
-- **AON Robotics** — Software and web development.
-- **NENXORAS** — Software innovation.
-- **[Personal Portfolio](https://github.com/Velazquez-karellen/karellen-portfolio)** — Personal web development project.
+- **AI Automation Research** — Intelligent workflow automation.
+- **NENXORAS** — Founder.
 
 ## 05 // GitHub Activity
 
